@@ -23,3 +23,5 @@ else if (jobPaiso == true) {
 else {
     console.log('tor kopal a biya nai'); 
 }
+
+
